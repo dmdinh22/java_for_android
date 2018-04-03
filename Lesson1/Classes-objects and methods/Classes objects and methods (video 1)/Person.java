@@ -1,5 +1,5 @@
 public class Person{
-	
+	// access modifier, return type, method name (parameters and types)
 	public void printData(String firstName, String lastName, int age){
 		System.out.println("You have " + age + " years old");
 		System.out.println("Your name is: " + firstName + " " + lastName);
