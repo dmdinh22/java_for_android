@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="745bc4b9-b82f-4a00-b021-8c4a65c637f6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast if-then-statement and switch-case/if-then-statement/Main.java" afterPath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast if-then-statement and switch-case/if-then-statement/Main.java" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast if-then-statement and switch-case/switch-case-statement/Main.java" afterPath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast if-then-statement and switch-case/switch-case-statement/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Lesson1/Control Flow/Practice/OddForLoop.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/for-loop/Main.java" afterPath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/for-loop/Main.java" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/while_do-while-loop/Main.java" afterPath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/while_do-while-loop/Main.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,100 +17,30 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Control Flow (video 1)/branching-statement-break/Main.java">
+        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/for-loop/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OddForLoop.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Practice/OddForLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Control Flow (video 1)/branching-statement-continue/Main.java">
+        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/while_do-while-loop/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Control Flow (video 1)/do-while/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Control Flow (video 1)/for-statement/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Control Flow (video 1)/if-then-statement/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Control Flow (video 1)/infinite-loop/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Control Flow (video 1)/switch-statement/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Control Flow (video 1)/while-statement/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Screencast if-then-statement and switch-case/if-then-statement/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Screencast if-then-statement and switch-case/switch-case-statement/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -131,6 +61,9 @@
       <list>
         <option value="$PROJECT_DIR$/Lesson1/Control Flow/Screencast if-then-statement and switch-case/if-then-statement/Main.java" />
         <option value="$PROJECT_DIR$/Lesson1/Control Flow/Screencast if-then-statement and switch-case/switch-case-statement/Main.java" />
+        <option value="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/for-loop/Main.java" />
+        <option value="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/while_do-while-loop/Main.java" />
+        <option value="$PROJECT_DIR$/Lesson1/Control Flow/Practice/OddForLoop.java" />
       </list>
     </option>
   </component>
@@ -176,107 +109,6 @@
               <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
               <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Branching Statements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow (video 1)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow (video 1)" type="462c0819:PsiDirectoryNode" />
-              <item name="branching-statement-break" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow (video 1)" type="462c0819:PsiDirectoryNode" />
-              <item name="branching-statement-continue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow (video 1)" type="462c0819:PsiDirectoryNode" />
-              <item name="do-while" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow (video 1)" type="462c0819:PsiDirectoryNode" />
-              <item name="for-statement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow (video 1)" type="462c0819:PsiDirectoryNode" />
-              <item name="if-then-statement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow (video 1)" type="462c0819:PsiDirectoryNode" />
-              <item name="infinite-loop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow (video 1)" type="462c0819:PsiDirectoryNode" />
-              <item name="switch-statement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow (video 1)" type="462c0819:PsiDirectoryNode" />
-              <item name="while-statement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Screencast if-then-statement and switch-case" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Screencast if-then-statement and switch-case" type="462c0819:PsiDirectoryNode" />
-              <item name="if-then-statement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="Screencast if-then-statement and switch-case" type="462c0819:PsiDirectoryNode" />
-              <item name="switch-case-statement" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -524,6 +356,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/while_do-while-loop/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Practice/OddForLoop">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/for-loop/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Practice/OddForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
