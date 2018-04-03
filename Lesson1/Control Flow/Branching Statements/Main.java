@@ -5,15 +5,14 @@ public class Main{
 		for (int i = 7; i >= 0; i--) {
 
 			System.out.println(i);
-			
-			//continue;
-			break;
-			
-			/*
-			if(i < 4){
-				//continue;
-				break;
-			}*/
+
+			//continue; -- move past this line
+			//break; -- exit out of loop
+
+			if (i < 4) {
+				continue;
+				//break;
+			}
 
 			System.out.println("beep");
 		}

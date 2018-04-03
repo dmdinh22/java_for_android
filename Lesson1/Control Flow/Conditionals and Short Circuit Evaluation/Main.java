@@ -3,8 +3,9 @@ public class Main{
 		System.out.println("Let's check the first table...");
 		boolean food = hotFood();
 		boolean table = tableServed();
+
 		/*hotFood() && tableServed()*/ /*tableServed() && hotFood()*/   /*tableServed() || hotFood()*/ /*hotFood() || tableServed()*/
-		if(table && food ){
+		if(table && food ){// put in order you want conditions evaluated
 			System.out.println("Time to eat");
 		}else{
 			System.out.println("Let's wait");

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="745bc4b9-b82f-4a00-b021-8c4a65c637f6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lesson1/Control Flow/Practice/OddForLoop.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/for-loop/Main.java" afterPath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/for-loop/Main.java" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/while_do-while-loop/Main.java" afterPath="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/while_do-while-loop/Main.java" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/Control Flow/Branching Statements/Main.java" afterPath="$PROJECT_DIR$/Lesson1/Control Flow/Branching Statements/Main.java" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/Control Flow/Conditionals and Short Circuit Evaluation/Main.java" afterPath="$PROJECT_DIR$/Lesson1/Control Flow/Conditionals and Short Circuit Evaluation/Main.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +24,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OddForLoop.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OddForLoop.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Practice/OddForLoop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Conditionals and Short Circuit Evaluation/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Branching Statements/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -64,6 +82,8 @@
         <option value="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/for-loop/Main.java" />
         <option value="$PROJECT_DIR$/Lesson1/Control Flow/Screencast loops/while_do-while-loop/Main.java" />
         <option value="$PROJECT_DIR$/Lesson1/Control Flow/Practice/OddForLoop.java" />
+        <option value="$PROJECT_DIR$/Lesson1/Control Flow/Conditionals and Short Circuit Evaluation/Main.java" />
+        <option value="$PROJECT_DIR$/Lesson1/Control Flow/Branching Statements/Main.java" />
       </list>
     </option>
   </component>
@@ -109,6 +129,13 @@
               <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
               <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
+              <item name="Control Flow" type="462c0819:PsiDirectoryNode" />
+              <item name="Branching Statements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,14 +299,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Branching Statements/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Control Flow (video 1)/branching-statement-break/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -388,6 +407,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Conditionals and Short Circuit Evaluation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson1/Control Flow/Branching Statements/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding />
         </state>
       </provider>
