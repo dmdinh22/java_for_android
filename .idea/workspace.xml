@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="745bc4b9-b82f-4a00-b021-8c4a65c637f6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/Human.java" afterPath="$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/Human.java" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/Main.java" afterPath="$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Lesson1/Classes-objects and methods/Practice/House.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,10 +15,25 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Human.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Practice/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Human.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="435">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="e#381#382#0" expanded="true" />
                 <element signature="e#413#414#0" expanded="true" />
@@ -37,7 +52,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="House.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Practice/House.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -73,6 +101,7 @@
         <option value="$PROJECT_DIR$/Lesson1/Classes-objects and methods/Practice/Main.java" />
         <option value="$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/Main.java" />
         <option value="$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/Human.java" />
+        <option value="$PROJECT_DIR$/Lesson1/Classes-objects and methods/Practice/House.java" />
       </list>
     </option>
   </component>
@@ -125,6 +154,13 @@
               <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
               <item name="Classes-objects and methods" type="462c0819:PsiDirectoryNode" />
               <item name="Choosing the correct type" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_for_android" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes-objects and methods" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_for_android" type="b2602c69:ProjectViewProjectNode" />
@@ -471,10 +507,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Practice/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Practice/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="345">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
           <folding>
             <element signature="e#465#466#0" expanded="true" />
             <element signature="e#506#507#0" expanded="true" />
@@ -484,18 +528,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Practice/Main.java">
+    <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="435">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="e#381#382#0" expanded="true" />
             <element signature="e#413#414#0" expanded="true" />
@@ -513,11 +565,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Screencast of class objects and methods/Main.java">
+    <entry file="file://$PROJECT_DIR$/Lesson1/Classes-objects and methods/Practice/House.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
