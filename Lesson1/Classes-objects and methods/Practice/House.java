@@ -21,8 +21,7 @@ public class House {
         return this.owner;
     }
 
-    public String Build (String item) {
-        this.newItem = item;
-        System.out.println("You just built " + item + " for your house.")
+    public void Build (String item) {
+        System.out.println("You just built " + item + " for your house.");
     }
 }
