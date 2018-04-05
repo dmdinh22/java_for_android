@@ -35,4 +35,14 @@ public class Account{
 	public String toString(){
 		return "\nname: " + name + "\naccount number: " + accountNumber + "\nbalance: " + balance;
 	}
+
+	public boolean withdraw(int withdrawal) {
+		int newBalance = balance - withdrawal;
+
+		if (newBalance >= 0) {
+			return true;
+		} else {
+			return false;
+		}
+	}
 }
